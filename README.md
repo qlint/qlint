@@ -1,5 +1,10 @@
 # Clint Arianda 👋 :v: :sparkles:
 
+**Full Stack Software Engineer and Mobile App Developer** at NMG.
+
+## Tech Stack:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white&style=flat-square) ![Angular](https://img.shields.io/badge/Angular-ff0000.svg?logo=Angular&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8892bf.svg?style=for-the-badge&logo=PHP&logoColor=white&style=flat-square)
+
 <!--
 **qlint/qlint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
