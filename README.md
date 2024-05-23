@@ -1,4 +1,4 @@
-# Clint Arianda 👋 :v: :sparkles:
+# Clint A.A 👋 :v: :sparkles:
 
 **Full Stack Software Engineer and Mobile App Developer**.
 
